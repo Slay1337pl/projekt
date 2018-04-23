@@ -1,6 +1,9 @@
 Example Voting App
 =========
 
+projekt skradziony przez KKOGPC
+
+
 Getting started
 ---------------
 
