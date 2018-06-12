@@ -5,5 +5,4 @@ node
 		sh 'docker-compose up'
 			}
 
-	
 }
