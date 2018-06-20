@@ -8,5 +8,5 @@ node
 		
 			}
 	stage('uruchom dockera'){sh 'ssh kacper@localhost docker-compose -f projektfinished/docker-compose.yml up'
-			RESULT=$?}
+			}
 }
